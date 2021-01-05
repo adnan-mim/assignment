@@ -1,0 +1,60 @@
+
+body{
+    margin:0px ;
+   font-family: 'Montserrat', sans-serif;}
+    
+    h1{
+    font-size: 50px;
+    
+}
+
+h2{
+    font-size: 40px;
+}
+
+.orange-highllite
+{
+    color: brown;
+}
+.half-width{
+width: 40%;
+float: left;
+margin-left: 7%;
+padding-left: 0%;
+}
+.half{
+
+}
+}
+.half img{
+    width:10%;
+    
+}
+.half-width img{
+
+    width:90%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.left{
+    width: 30%;
+float: left;
+margin-left: 55%;
+padding-left: 2%;
+}
+.link-button{
+    text-decoration: none;
+  
+    background-image: linear-gradient(50deg ,lightsalmon,tomato);
+    padding: 10px 60px ;
+    border-radius: 60px;
+    color: white 700;
+}
+footer p {
+    text-align: center;
+    font-size: 15px
+    ;
+}
